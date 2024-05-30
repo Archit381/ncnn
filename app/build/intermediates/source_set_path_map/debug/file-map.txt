@@ -1,0 +1,7 @@
+com.tencent.nanodetncnn.app-pngs-0 C:\Users\Archit\Desktop\ncnn\ncnn-android-nanodet\app\build\generated\res\pngs\debug
+com.tencent.nanodetncnn.app-resValues-1 C:\Users\Archit\Desktop\ncnn\ncnn-android-nanodet\app\build\generated\res\resValues\debug
+com.tencent.nanodetncnn.app-packageDebugResources-2 C:\Users\Archit\Desktop\ncnn\ncnn-android-nanodet\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.tencent.nanodetncnn.app-packageDebugResources-3 C:\Users\Archit\Desktop\ncnn\ncnn-android-nanodet\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.tencent.nanodetncnn.app-merged_res-4 C:\Users\Archit\Desktop\ncnn\ncnn-android-nanodet\app\build\intermediates\merged_res\debug
+com.tencent.nanodetncnn.app-debug-5 C:\Users\Archit\Desktop\ncnn\ncnn-android-nanodet\app\src\debug\res
+com.tencent.nanodetncnn.app-main-6 C:\Users\Archit\Desktop\ncnn\ncnn-android-nanodet\app\src\main\res

@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Archit\Desktop\ncnn\ncnn-android-nanodet\app\.cxx\Debug\362o2o4k\arm64-v8a'
+ninja: no work to do.
